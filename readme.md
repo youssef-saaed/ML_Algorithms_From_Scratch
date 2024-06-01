@@ -16,7 +16,7 @@ This repository contains implementations of various machine learning algorithms 
 
 ## Usage
 
-Each algorithm is implemented in a standalone Python file and can be run independently. For example, to use the KNN implementation, navigate to the KNN directory and run the `KNN.py` file.
+Each algorithm is implemented in a standalone Python file and can be run independently. For example, to use the KNN implementation, navigate to the KNN directory and import the `KNN.py` file.
 
 ## Contributing
 
