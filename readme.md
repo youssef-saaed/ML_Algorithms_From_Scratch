@@ -1,5 +1,3 @@
-Sure, here’s a README file for your repository:
-
 # Machine Learning Algorithms from Scratch
 
 This repository contains implementations of various machine learning algorithms from scratch. Each algorithm is implemented in Python and is contained in its own directory.
